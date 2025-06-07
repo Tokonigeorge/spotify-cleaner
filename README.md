@@ -2,8 +2,6 @@
 
 A command-line tool to bulk-unfollow Spotify playlists based on specified criteria, with filtering and a safe interactive mode.
 
-## Why?
-
 This project was born out of necessity. I somehow created over a thousand unwanted playlists on my account while working on another project that interacted with the Spotify API, and I didn't want to delete them one-by-one, this was built to solve the problem for myself and anyone else who might need it.
 
 ## Features
